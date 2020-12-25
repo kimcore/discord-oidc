@@ -20,4 +20,4 @@ I recommend using Apache2 / Nginx proxies to secure connections.
 ## Usage
 For Cloudflare Access:
 
-![](https://i.imgur.com/g9J8srY.png)
+![](https://i.imgur.com/6EtG21Y.png)
