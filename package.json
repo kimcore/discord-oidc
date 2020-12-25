@@ -1,0 +1,24 @@
+{
+  "name": "discord-oidc",
+  "version": "1.0.0",
+  "description": "Discord OAuth2 OpenID Connect Wrapper",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js &&"
+  },
+  "keywords": [
+    "oidc",
+    "openid",
+    "discord"
+  ],
+  "author": "kimcore",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^4.2.0",
+    "json-web-key": "^0.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "node-fetch": "^2.6.1"
+  }
+}
