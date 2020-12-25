@@ -18,3 +18,5 @@ Simply use `npm start` or `node server.js` to start.
 
 I recommend using Apache2 / Nginx proxies to secure connections.
 ## Usage
+For Cloudflare Access:
+[](https://i.imgur.com/g9J8srY.png)
