@@ -100,5 +100,5 @@ app.get('/jwks.json', async (request, response) => {
 })
 
 app.listen(port, host, async () => {
-    console.log('Discord OIDC Wraper started...')
+    console.log('Discord OIDC Wrapper started...')
 })
