@@ -1,5 +1,6 @@
 # Discord-OIDC
 This simply wraps Discord OAuth2 to OpenID Connect.
+> **OUTDATED. Use [discord-oidc-worker](https://github.com/Erisa/discord-oidc-worker).**
 ## Download
 Clone this repo or [download as zip](https://github.com/kimcore/discord-oidc/archive/master.zip)
 ## Config
